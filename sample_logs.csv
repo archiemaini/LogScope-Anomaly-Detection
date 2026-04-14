@@ -1,0 +1,11 @@
+timestamp,log
+2026-03-30 10:00:00,User login successful
+2026-03-30 10:05:00,Database connection established
+2026-03-30 10:10:00,Query executed successfully
+2026-03-30 10:15:00,User logout
+2026-03-30 10:20:00,ERROR: Connection timeout on port 8080
+2026-03-30 10:25:00,User login successful
+2026-03-30 10:30:00,System update completed
+2026-03-30 10:35:00,CRITICAL: Memory overflow detected in process ID 4599
+2026-03-30 10:40:00,Cache cleared
+2026-03-30 10:45:00,User login successful
